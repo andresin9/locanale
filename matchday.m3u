@@ -1,21 +1,18 @@
 #EXTM3U
 
-#EXTINF:-1, [COLOR blue][I]- CANALES DE TV-[/COLOR] [/I] 
+#EXTINF:-1, [COLOR green][I]- FURBO -[/COLOR] [/I] 
 
-#EXTINF:-1tvg-logo=»https://coltank.files.wordpress.com/2014/09/ucl-logo.jpg» group-title=»UCL», Multi
+#EXTINF:-1tvg-logo=»https://coltank.files.wordpress.com/2014/09/ucl-logo.jpg» group-title=»UCL», DLYSPT 1
 https://cdn2.dailysport.pw/1/1.m3u8
 
-#EXTINF:-1tvg-logo=»https://coltank.files.wordpress.com/2014/09/ucl-logo.jpg» group-title=»UCL», JUVE 
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/6c3feedae5a742eba4ae35328aae667d/chunklist.m3u8
+#EXTINF:-1tvg-logo=»https://coltank.files.wordpress.com/2014/09/ucl-logo.jpg» group-title=»UCL», REAL ESP
+https://cdn2.dailysport.pw/3/3.m3u8
 
-#EXTINF:-1tvg-logo=»https://coltank.files.wordpress.com/2014/09/ucl-logo.jpg» group-title=»UCL», JUVE eng
-https://cdn.dailysport.pw/epl2/2.m3u8
+#EXTINF:-1tvg-logo=»https://coltank.files.wordpress.com/2014/09/ucl-logo.jpg» group-title=»UCL», REAL BR
+http://50.7.34.34/HD_TNT_ALTER/video.m3u8?token=f5ba28855d52ff29adc7b0fb093df00a
 
-#EXTINF:-1tvg-logo=»https://coltank.files.wordpress.com/2014/09/ucl-logo.jpg» group-title=»UCL», JUVE BR
-http://50.7.34.34/SD_ESPORTE_INTERATIVO_1/video.m3u8?token=f5ba28855d52ff29adc7b0fb093df00a
+#EXTINF:-1tvg-logo=»https://coltank.files.wordpress.com/2014/09/ucl-logo.jpg» group-title=»UCL», REAL BR2
+http://50.7.34.34/HD_TNT/video.m3u8?token=f5ba28855d52ff29adc7b0fb093df00a
 
-#EXTINF:-1tvg-logo=»https://coltank.files.wordpress.com/2014/09/ucl-logo.jpg» group-title=»UCL», nt MX
-https://espare.tk/live/campeones.m3u8?token=v-PJO1ZVQKN5F7PT5WX83A&expires=1603832260
-
-#EXTINF:-1tvg-logo=»https://coltank.files.wordpress.com/2014/09/ucl-logo.jpg» group-title=»UCL», nt MX2
-http://64.227.88.31/hls/spn-1.m3u8
+#EXTINF:-1tvg-logo=»https://coltank.files.wordpress.com/2014/09/ucl-logo.jpg» group-title=»UCL», REAL MX
+https://unidfpclnlds141.akamaized.net/linear/hls/pa/event/bQ2JGGVzTpqfCfcTZWay1Q/stream/ed77ff8d-bcc1-476d-a1b8-3031f9d5a538:BRU/variant/c9fe74e2f4d7fc5df7bfad7969bb4acc/bandwidth/4500000.m3u8?hdntl=exp=1604512834~acl=*~id=3dba6d16-5b65-45a3-a76c-9f61615c3ab0~data=hdntl~hmac=39d1e6ac798db5793cbc4009af469881b071a6c04f352043ba27c1b43c829698
