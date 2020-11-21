@@ -2,14 +2,17 @@
 
 #EXTINF:-1, [COLOR green][I]- FURBO -[/COLOR] [/I] 
 
-#EXTINF:-1tvg-logo=»https://coltank.files.wordpress.com/2014/09/ucl-logo.jpg» group-title=»UCL», MULTI
-https://cdn.dailysport.live/epl1/1.m3u8
+#EXTINF:-1tvg-logo=»https://assets.stickpng.com/thumbs/584a9b47b080d7616d298778.png» group-title=»Furbo», R. Madrid 1
+https://cdn.dailysport.live/1/1.m3u8
 
-#EXTINF:-1tvg-logo=»https://coltank.files.wordpress.com/2014/09/ucl-logo.jpg» group-title=»UCL», MATCH
-https://cdn2.dailysport.pw/1/1.m3u8
+#EXTINF:-1tvg-logo=»https://www.lacontradeportiva.com/wp-content/uploads/2020/05/premier.png» group-title=»Furbo», Premier 1
+https://cdn1.dailysport.live/20/20.m3u8
 
-#EXTINF:-1tvg-logo=»https://coltank.files.wordpress.com/2014/09/ucl-logo.jpg» group-title=»UCL», REAL BR2
-http://50.7.34.34/HD_TNT_ALTER/video.m3u8?token=f5ba28855d52ff29adc7b0fb093df00a
+#EXTINF:-1tvg-logo=»https://www.lacontradeportiva.com/wp-content/uploads/2020/05/premier.png» group-title=»Furbo», Premier 2
+https://cf98fa7b2ee4450e.mediapackage.us-east-1.amazonaws.com:443/out/v1/26ceb16a74194e669cc6c069b8aa129d/index3_1.m3u8
 
-#EXTINF:-1tvg-logo=»https://coltank.files.wordpress.com/2014/09/ucl-logo.jpg» group-title=»UCL», REAL BR
-http://kpwhisky.xyz/HD_ESPN_BRASIL_ALTER/video.m3u8?token=f5ba28855d52ff29adc7b0fb093df00a
+#EXTINF:-1tvg-logo=»https://lh3.googleusercontent.com/proxy/Z03y-ugtB5aiUxCCuAhnE1TAYdXUuL5CU3vOZz7dlsJEUjgCOLQH1BTNEuU5nOzV5qvjPcObGUW9lZkNcY6UN-obKO4YjrOfC3yjNs-f1i8mUYZO-dH3DKPZ_ZA» group-title=»Furbo», ESPN BRASIL 1
+http://12ca3golf.ga/HD_ESPN_BRASIL_ALTER/video.m3u8?token=f5ba28855d52ff29adc7b0fb093df00a
+
+#EXTINF:-1tvg-logo=»https://lh3.googleusercontent.com/proxy/Z03y-ugtB5aiUxCCuAhnE1TAYdXUuL5CU3vOZz7dlsJEUjgCOLQH1BTNEuU5nOzV5qvjPcObGUW9lZkNcY6UN-obKO4YjrOfC3yjNs-f1i8mUYZO-dH3DKPZ_ZA» group-title=»Furbo», ESPN BRASIL 2
+http://13ca3india.ga/HD_HDUASBDOM/video.m3u8?token=f5ba28855d52ff29adc7b0fb093df00a
