@@ -2,11 +2,17 @@
 
 #EXTINF:-1, [COLOR green][I]- FURBO -[/COLOR] [/I] 
 
-#EXTINF:-1tvg-logo=»https://assets.stickpng.com/thumbs/584a9b47b080d7616d298778.png» group-title=»Furbo», Boruss
-https://daily-live0.s3.eu-west-3.amazonaws.com/2c/2.m3u8
+#EXTINF:-1tvg-logo=»https://assets.stickpng.com/thumbs/584a9b47b080d7616d298778.png» group-title=»Furbo», 2 Maaaadrid
+https://cdn5.dailysport.live/epl2/2.m3u8
 
-#EXTINF:-1tvg-logo=»https://www.lacontradeportiva.com/wp-content/uploads/2020/05/premier.png» group-title=»Furbo», Maaaadrid
-https://daily-live0.s3.eu-west-3.amazonaws.com/2c/1.m3u8
+#EXTINF:-1tvg-logo=»https://www.lacontradeportiva.com/wp-content/uploads/2020/05/premier.png» group-title=»Furbo», 1 Maaadrid 
+https://cdn5.dailysport.live/1/1.m3u8
+
+#EXTINF:-1tvg-logo=»https://www.lacontradeportiva.com/wp-content/uploads/2020/05/premier.png» group-title=»Furbo», 3 Maadrid 
+https://cdn5.dailysport.live/31/31.m3u8
+
+#EXTINF:-1tvg-logo=»https://www.lacontradeportiva.com/wp-content/uploads/2020/05/premier.png» group-title=»Furbo», 4 Maaadrid 
+https://e10.habrox.xyz/ingestnb4s/espn2_sur/f.m3u8
 
 #EXTINF:-1tvg-logo=»https://www.lacontradeportiva.com/wp-content/uploads/2020/05/premier.png» group-title=»Furbo», Premier 2
 https://cf98fa7b2ee4450e.mediapackage.us-east-1.amazonaws.com:443/out/v1/26ceb16a74194e669cc6c069b8aa129d/index3_1.m3u8
