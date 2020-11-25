@@ -2,11 +2,11 @@
 
 #EXTINF:-1, [COLOR green][I]- FURBO -[/COLOR] [/I] 
 
-#EXTINF:-1tvg-logo=»https://assets.stickpng.com/thumbs/584a9b47b080d7616d298778.png» group-title=»Furbo», Multi
-https://cdn3.dailysport.live/3/3.m3u8
+#EXTINF:-1tvg-logo=»https://assets.stickpng.com/thumbs/584a9b47b080d7616d298778.png» group-title=»Furbo», Boruss
+https://daily-live0.s3.eu-west-3.amazonaws.com/2c/2.m3u8
 
-#EXTINF:-1tvg-logo=»https://www.lacontradeportiva.com/wp-content/uploads/2020/05/premier.png» group-title=»Furbo», Premier 1
-https://daily-live.s3.eu-west-3.amazonaws.com/20/20.m3u8
+#EXTINF:-1tvg-logo=»https://www.lacontradeportiva.com/wp-content/uploads/2020/05/premier.png» group-title=»Furbo», Maaaadrid
+https://daily-live0.s3.eu-west-3.amazonaws.com/2c/1.m3u8
 
 #EXTINF:-1tvg-logo=»https://www.lacontradeportiva.com/wp-content/uploads/2020/05/premier.png» group-title=»Furbo», Premier 2
 https://cf98fa7b2ee4450e.mediapackage.us-east-1.amazonaws.com:443/out/v1/26ceb16a74194e669cc6c069b8aa129d/index3_1.m3u8
