@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF: GSHOW
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes9/esportes9_2000/index.m3u8
-#EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-MEDIA-SEQUENCE:576
 #EXT-X-TARGETDURATION:5
